@@ -1,15 +1,17 @@
 Package: rrcompendium2
-Title: What the Package Does (One Line, Title Case)
+Title: Aquest es el meu titol
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Jordi",
+           family = "MB",
            role = c("aut", "cre"),
-           email = "first.last@example.com")
-Description: What the package does (one paragraph).
+           email = "jmblanch2002@yahoo.es")
+Description: Aquest package fa aixo.
 License: MIT + file LICENSE
 ByteCompile: true
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
+URL: https://github.com/pearhead/rrcompendium2
+BugReports: https://github.com/pearhead/rrcompendium2/issues
